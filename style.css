@@ -1,25 +1,4 @@
-* {
-    padding: 0;
+body{
     margin: 0;
-  }
-  
-  body {
-    background: lightblue;
-  }
-  img {
-    float: left;
-    width: 200px;
-    height: 138px;
-    padding: 10px;
-  }
-  article {
-  height: 185px;
-  width: 400px;
+    padding: 0;
 }
-p{
-    padding: 10px;
-  }
-  
-.cos {
-    display: table;
-  }
